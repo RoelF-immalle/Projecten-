@@ -1,5 +1,0 @@
-\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test1ConsoleRoel\Test1ConsoleRoel\bin\Debug\Test1ConsoleRoel.exe.config
-\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test1ConsoleRoel\Test1ConsoleRoel\bin\Debug\Test1ConsoleRoel.exe
-\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test1ConsoleRoel\Test1ConsoleRoel\bin\Debug\Test1ConsoleRoel.pdb
-\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test1ConsoleRoel\Test1ConsoleRoel\obj\Debug\Test1ConsoleRoel.exe
-\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test1ConsoleRoel\Test1ConsoleRoel\obj\Debug\Test1ConsoleRoel.pdb

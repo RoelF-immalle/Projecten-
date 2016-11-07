@@ -1,5 +1,0 @@
-\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Heyfrisdrankautomaat\Heyfrisdrankautomaat\bin\Debug\Heyfrisdrankautomaat.exe.config
-\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Heyfrisdrankautomaat\Heyfrisdrankautomaat\bin\Debug\Heyfrisdrankautomaat.exe
-\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Heyfrisdrankautomaat\Heyfrisdrankautomaat\bin\Debug\Heyfrisdrankautomaat.pdb
-\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Heyfrisdrankautomaat\Heyfrisdrankautomaat\obj\Debug\Heyfrisdrankautomaat.exe
-\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Heyfrisdrankautomaat\Heyfrisdrankautomaat\obj\Debug\Heyfrisdrankautomaat.pdb
