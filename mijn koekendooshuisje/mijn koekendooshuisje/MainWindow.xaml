@@ -1,0 +1,20 @@
+﻿<Window x:Class="mijn_koekendooshuisje.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mijn_koekendooshuisje"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="27*"/>
+            <RowDefinition Height="160*"/>
+            <RowDefinition Height="132*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="button" Content="hier" Click="button_Click" HorizontalAlignment="Left" Width="75" Height="20" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock" Grid.Row="1" TextWrapping="Wrap" Margin="10,0,365,122"><Run Text="klik hier om te we"/><Run Text="ten"/><Run Text=" hoe mijn huis ruit ziet"/><Run Text="!"/></TextBlock>
+        <Canvas x:Name="mijn_huisje" Margin="157,20,10,0" Grid.Row="1" Grid.RowSpan="2"/>
+
+    </Grid>
+</Window>

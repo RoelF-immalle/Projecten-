@@ -1,0 +1,14 @@
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\hellokzenderoelwpf\hellokzenderoelwpf\bin\Debug\hellokzenderoelwpf.exe.config
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\hellokzenderoelwpf\hellokzenderoelwpf\bin\Debug\hellokzenderoelwpf.exe
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\hellokzenderoelwpf\hellokzenderoelwpf\bin\Debug\hellokzenderoelwpf.pdb
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\hellokzenderoelwpf\hellokzenderoelwpf\obj\Debug\hellokzenderoelwpf.csprojResolveAssemblyReference.cache
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\hellokzenderoelwpf\hellokzenderoelwpf\obj\Debug\MainWindow.g.cs
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\hellokzenderoelwpf\hellokzenderoelwpf\obj\Debug\App.g.cs
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\hellokzenderoelwpf\hellokzenderoelwpf\obj\Debug\hellokzenderoelwpf_MarkupCompile.cache
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\hellokzenderoelwpf\hellokzenderoelwpf\obj\Debug\hellokzenderoelwpf_MarkupCompile.lref
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\hellokzenderoelwpf\hellokzenderoelwpf\obj\Debug\MainWindow.baml
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\hellokzenderoelwpf\hellokzenderoelwpf\obj\Debug\hellokzenderoelwpf.g.resources
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\hellokzenderoelwpf\hellokzenderoelwpf\obj\Debug\hellokzenderoelwpf.Properties.Resources.resources
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\hellokzenderoelwpf\hellokzenderoelwpf\obj\Debug\hellokzenderoelwpf.csproj.GenerateResource.Cache
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\hellokzenderoelwpf\hellokzenderoelwpf\obj\Debug\hellokzenderoelwpf.exe
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\hellokzenderoelwpf\hellokzenderoelwpf\obj\Debug\hellokzenderoelwpf.pdb

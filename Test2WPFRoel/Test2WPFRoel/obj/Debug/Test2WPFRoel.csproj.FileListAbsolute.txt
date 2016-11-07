@@ -1,0 +1,14 @@
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test2WPFRoel\Test2WPFRoel\bin\Debug\Test2WPFRoel.exe.config
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test2WPFRoel\Test2WPFRoel\bin\Debug\Test2WPFRoel.exe
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test2WPFRoel\Test2WPFRoel\bin\Debug\Test2WPFRoel.pdb
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test2WPFRoel\Test2WPFRoel\obj\Debug\Test2WPFRoel.csprojResolveAssemblyReference.cache
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test2WPFRoel\Test2WPFRoel\obj\Debug\MainWindow.g.cs
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test2WPFRoel\Test2WPFRoel\obj\Debug\App.g.cs
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test2WPFRoel\Test2WPFRoel\obj\Debug\Test2WPFRoel_MarkupCompile.cache
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test2WPFRoel\Test2WPFRoel\obj\Debug\Test2WPFRoel_MarkupCompile.lref
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test2WPFRoel\Test2WPFRoel\obj\Debug\MainWindow.baml
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test2WPFRoel\Test2WPFRoel\obj\Debug\Test2WPFRoel.g.resources
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test2WPFRoel\Test2WPFRoel\obj\Debug\Test2WPFRoel.Properties.Resources.resources
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test2WPFRoel\Test2WPFRoel\obj\Debug\Test2WPFRoel.csproj.GenerateResource.Cache
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test2WPFRoel\Test2WPFRoel\obj\Debug\Test2WPFRoel.exe
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\Test2WPFRoel\Test2WPFRoel\obj\Debug\Test2WPFRoel.pdb

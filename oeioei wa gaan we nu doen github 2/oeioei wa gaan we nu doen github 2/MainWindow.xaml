@@ -1,0 +1,14 @@
+﻿<Window x:Class="oeioei_wa_gaan_we_nu_doen_github_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:oeioei_wa_gaan_we_nu_doen_github_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="pripyat" Content="Pripjat (Russisch: Припять, Oekraïens: Прип'ять; Prypjat) is een spookstad in de Oekraïense oblast Kiev, vlak bij de grens met Wit-Rusland.&#xD;&#xA;&#xD;&#xA;De stad werd volledig ontruimd als gevolg van de kernramp van Tsjernobyl in 1986. In de stad woonden destijds (vóór 1986) zo'n 55.000 inwoners waarvan velen werkten bij de kerncentrale. De stadsspreuk &quot;gezondheid voor het volk is rijkdom voor het land&quot; (&quot;здоровя народу - багатство країни&quot;) kreeg een wrange nasmaak. De stad is nagenoeg onaangetast sinds de evacuatie; Pripjat is daardoor een toeristische attractie geworden. Beroemd is onder andere het pretpark waar de botsauto's en het reuzenrad nog altijd staan. De stad ligt in een quarantaine gebied vanwege de nog immer aanwezige radioactieve straling. Het is echter mogelijk de stad met een gids te bezoeken. Tot 2007 was het ook mogelijk om gebouwen te betreden. In verband met instortingsgevaar is dit nu verboden. De meeste gebouwen verkeren in slechte staat omdat er geen onderhoud gepleegd wordt. Bovendien groeien er bomen en andere vegetatie dwars door de gebouwen heen die de structurele integriteit aantasten. Het is relatief veilig om Pripjat te bezoeken mits men zich strikt aan de regels van de gids houdt. De gedragen kleren moeten vernietigd worden, er mag niets mee genomen worden en men moet te allen tijde op de paden blijven. Dit laatste is vanwege een bijzondere mossoort die in Pripjat groeit en vol met radioactieve straling zit. Op deze mossen gaan staan of er tegen schoppen zorgt ervoor dat een gevaarlijke hoeveelheid straling vrijkomt.&#xD;&#xA;&#xD;&#xA;Voor de inwoners van Pripjat moest, net als voor die van Tsjernobyl, een alternatief onderkomen worden gecreëerd. Dit werd de plaats Slavoetytsj." Margin="214,10,0,219"/>
+        <Button x:Name="BOEM" Content="Tsjernobyl ontploft" Margin="27,31,357,268" Click="button_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,6 @@
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\huh das hier een github opdracht\huh das hier een github opdracht\bin\Debug\huh das hier een github opdracht.exe.config
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\huh das hier een github opdracht\huh das hier een github opdracht\bin\Debug\huh das hier een github opdracht.exe
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\huh das hier een github opdracht\huh das hier een github opdracht\bin\Debug\huh das hier een github opdracht.pdb
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\huh das hier een github opdracht\huh das hier een github opdracht\obj\Debug\huh das hier een github opdracht.csprojResolveAssemblyReference.cache
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\huh das hier een github opdracht\huh das hier een github opdracht\obj\Debug\huh das hier een github opdracht.exe
+\\imma-fs-0003\roel.fockaert$\documents\visual studio 2015\Projects\huh das hier een github opdracht\huh das hier een github opdracht\obj\Debug\huh das hier een github opdracht.pdb
